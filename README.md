@@ -112,14 +112,14 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 ## This is what i learned from this class
 #### About Myself:
 **My name** _is Ayşe_. 
-**I can type now both _italic_ and _ bold_.**
+**I can type now both _italic_ and bold.**
 
 ***This is my favorite quote:***
 > “Opportunities don't happen, you create them.” 
 
 ***My favorite color is ["Blue"](https://en.wikipedia.org/wiki/Blue).
 
-!["This is blue"](https://en.wikipedia.org/wiki/Blue#/media/File:Copper_sulfate.jpg). 
+!["This is blue"](https://upload.wikimedia.org/wikipedia/commons/f/ff/Solid_blue.svg). 
 
 
 
