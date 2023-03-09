@@ -119,7 +119,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ***My favorite color is ["Blue"](https://en.wikipedia.org/wiki/Blue).
 
-!["This is blue"](https://en.wikipedia.org/wiki/Blue#/media/File:Copper_sulfate.jpg). 
+!["This is blue"](https://en.wikipedia.org/wiki/Blue#/media/File:Copper_sulfate.jpg).
 
 
 
