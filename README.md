@@ -17,7 +17,7 @@ GitHub is home to some of the most advanced technologies in the world. Whether y
 
 The GitHub flow is a lightweight workflow that allows you to experiment and collaborate on your projects easily, without the risk of losing your previous work.
 
-### Repositories
+### Repositories 
 
 A repository is where your project work happens--think of it as your project folder. It contains all of your project’s files and revision history.  You can work within a repository alone or invite others to collaborate with you on those files.
 
@@ -27,9 +27,10 @@ When a repository is created with GitHub, it’s stored remotely in the ☁️. 
 To learn more about cloning, read ["Cloning a Repository"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository). 
 
 ### Committing and pushing
-**Committing** and **pushing** are how you can add the changes you made on your local machine to the remote repository in GitHub. That way your instructor and/or teammates can see your latest work when you’re ready to share it. You can make a commit when you have made changes to your project that you want to “checkpoint.” You can also add a helpful **commit message** to remind yourself or your teammates what work you did (e.g. “Added a README with information about our project”).
+**Committing** and **pushing** are how you can add the changes you made on your local machine to the remote repository in GitHub. That way your instructor and/or teammates can see your latest work when you’re ready to share it. You can make a commit when you have made changes to your project that you want to “checkpoint.” You can also add a helpful **commit message** to remind yourself or your teammates what work you did (e.g. “Added a README with information about our project”). 
 
 Once you have a commit or multiple commits that you’re ready to add to your repository, you can use the push command to add those changes to your remote repository. Committing and pushing may feel new at first, but we promise you’ll get used to it 🙂
+
 
 ## 💻 GitHub terms to know 
 
@@ -60,6 +61,7 @@ You can also link together pull requests and issues to show that a fix is in pro
 To learn more about issues and linking them to your pull requests, read ["About Issues"](https://docs.github.com/en/github/managing-your-work-on-github/about-issues). 
 
 ### Your user profile
+#### Let's say something about ourselfs!
 
 Your profile page tells people the story of your work through the repositories you're interested in, the contributions you've made, and the conversations you've had. You can also give the world a unique view into who you are with your profile README. You can use your profile to let future employers know all about you! 
 To learn more about your user profile and adding and updating your profile README, read ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme). 
@@ -106,3 +108,23 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+## This is what i learned from this class
+#### About Myself:
+**My name** _is Ayşe_. 
+**I can type now both _italic_ and _ bold_.**
+
+***This is my favorite quote:***
+> “Opportunities don't happen, you create them.” 
+
+***My favorite color is ["Blue"](https://en.wikipedia.org/wiki/Blue).
+
+!["This is blue"](https://en.wikipedia.org/wiki/Blue#/media/File:Copper_sulfate.jpg). 
+
+
+
+
+
+
+
+
