@@ -117,7 +117,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 ***This is my favorite quote:***
 > “Opportunities don't happen, you create them.” 
 
-***My favorite color is ["Blue"](https://en.wikipedia.org/wiki/Blue).
+***My favorite color is ["Blue"](https://en.wikipedia.org/wiki/Blue).***
 
 !["This is blue"](https://upload.wikimedia.org/wikipedia/commons/f/ff/Solid_blue.svg). 
 
